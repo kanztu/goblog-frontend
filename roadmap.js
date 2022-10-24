@@ -4,10 +4,10 @@ String.prototype.format = function() {
 var data = [
     {
         href: '#job-abcc',
-        date: '03/2022 - Present',
+        date: '03/2022 - 10/2022',
         title: 'Analyst Programmer in ABCC.com',
         icon: '<i class="fa-brands fa-ethereum"></i>  <i class="fa-solid fa-bitcoin-sign" style="color: #f78f15;"></i>',
-        detail: 'With nice colleages, I work in Backend development of a cryptocurrency exchange platform, ABCC.com. Learnt a lots to code with organized structure and high reliability'
+        detail: 'With nice colleages, I worked in Backend development of a cryptocurrency exchange platform, ABCC.com. Learnt a lots to code with organized structure and high reliability'
     },
     {
         href: '#job-hkpc',
@@ -35,7 +35,7 @@ var data = [
         date: '1998',
         title: 'Born in HK',
         icon: '<i class="fa-sharp fa-solid fa-fire" style="color:red;"></i>',
-        detail: 'Thank you my family'
+        detail: 'Thanks my family'
     }
 ]
 
